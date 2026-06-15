@@ -151,14 +151,11 @@ Features include:
 
 ---
 
-## GitHub Statistics
+## GitHub Insights
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quirosmirandavictor&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quirosmirandavictor&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=quirosmirandavictor&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
