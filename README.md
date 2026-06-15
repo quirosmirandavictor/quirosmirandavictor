@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="rbnr.png" alt="Banner" />
+</p>
+
 # Hi, I'm Victor Quirós 👋
 
-### Senior Software Engineer | Azure Solutions Architect in Progress
+### Senior Software Engineer | Azure Solution Architect in Progress
 
 Building enterprise software, cloud solutions, and data-driven applications with .NET, Python, Azure, and SQL Server.
 
