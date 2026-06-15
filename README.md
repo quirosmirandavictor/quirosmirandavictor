@@ -126,6 +126,16 @@ Features include:
 
 ---
 
+## Architecture Portfolio
+
+*  Azure Reference Architectures
+*  Cloud Design Patterns
+*  SaaS Multi-Tenant Designs
+*  Authentication & Authorization
+*  Observability Solutions
+
+---
+
 ## Current Learning Path
 
 * Azure Solution Architecture
