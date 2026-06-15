@@ -165,7 +165,6 @@ Features include:
 * Earn the AZ-305 certification
 * Build and launch a SaaS product
 * Strengthen Azure architecture expertise
-* Contribute to open-source projects
 * Continue growing toward a Solution Architect role
 
 ---
