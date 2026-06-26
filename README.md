@@ -151,12 +151,23 @@ Features include:
 
 ---
 
+<div align="center">
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quirosmirandavictor&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
 ## GitHub Insights
 
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=quirosmirandavictor&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=quirosmirandavictor&theme=github-dark&hide_border=true)
+
+</div>
 
 ---
 
