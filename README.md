@@ -113,7 +113,7 @@ Currently, I am focused on expanding my expertise in Azure architecture and clou
 
 Commercial-oriented Property Management platform built as a Modular Monolith following Clean Architecture principles.
 
-Designed to support property administration, tenant management, payments, contracts, financial reporting, and future cloud deployment on Azure.
+Designed to support rental property administration while providing a scalable foundation for future cloud deployment on Azure.
 
 **Highlights**
 
