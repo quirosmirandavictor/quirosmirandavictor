@@ -98,7 +98,7 @@ A SaaS platform designed for rental property administration, including:
 
 **Technologies:** Python, React, Mysql, Azure
 
-**Repo:** [github.com/quirosmirandavictor/property_management](#)
+**Repository:** https://github.com/quirosmirandavictor/property_management
 
 ---
 
@@ -113,9 +113,9 @@ Features include:
 * Monitoring and alerting
 * Search and filtering
 
-**Repo:** [github.com/quirosmirandavictor/logs_viewer](#)
-
 **Technologies:** .NET, NLog, Docker
+
+**Repository:** https://github.com/quirosmirandavictor/logs_viewer
 
 ---
 
