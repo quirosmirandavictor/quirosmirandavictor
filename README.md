@@ -96,7 +96,7 @@ A SaaS platform designed for rental property administration, including:
 * Payment tracking
 * Financial reporting
 
-**Technologies:** Python, React,Mysql, Azure
+**Technologies:** Python, React, Mysql, Azure
 
 ---
 
