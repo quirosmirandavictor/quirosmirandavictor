@@ -98,6 +98,8 @@ A SaaS platform designed for rental property administration, including:
 
 **Technologies:** Python, React, Mysql, Azure
 
+**Repo:** [github.com/quirosmirandavictor/property_management](#)
+
 ---
 
 ### Enterprise Log Analyzer
@@ -111,32 +113,9 @@ Features include:
 * Monitoring and alerting
 * Search and filtering
 
+**Repo:** [github.com/quirosmirandavictor/logs_viewer](#)
+
 **Technologies:** .NET, NLog, Docker
-
----
-
-### OAuth2 & Microsoft Entra ID Integration
-
-Authentication and authorization examples using modern identity standards.
-
-Features include:
-
-* OAuth2
-* OpenID Connect
-* Microsoft Entra ID
-* Secure API access
-
-**Technologies:** .NET, Python, Azure
-
----
-
-## Architecture Portfolio
-
-*  Azure Reference Architectures
-*  Cloud Design Patterns
-*  SaaS Multi-Tenant Designs
-*  Authentication & Authorization
-*  Observability Solutions
 
 ---
 
@@ -155,7 +134,7 @@ Features include:
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quirosmirandavictor&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quirosmirandavictor&layout=compact&theme=github_dark)
 
 </div>
 
