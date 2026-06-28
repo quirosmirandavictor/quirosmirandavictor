@@ -109,7 +109,30 @@ Currently, I am focused on expanding my expertise in Azure architecture and clou
 
 ## Featured Projects
 
+### Enterprise Log Analyzer
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
+[![Release](https://img.shields.io/github/v/tag/quirosmirandavictor/logs_viewer?label=Release&sort=semver)](https://github.com/quirosmirandavictor/logs_viewer/releases)
+
+Cloud-native log processing platform built on Azure for scalable ingestion, normalization, and analysis of application logs.
+
+The solution follows an event-driven architecture using Azure Functions, Queue Storage, Docker, and Infrastructure as Code.
+
+**Highlights**
+
+- Azure Functions
+- Queue Storage
+- Event-driven processing
+- Docker
+- Bicep
+- GitHub Actions
+
+**Repository:** https://github.com/quirosmirandavictor/logs_viewer
+
+---
+
 ### Property Management Platform
+
+![Status](https://img.shields.io/badge/status-in%20development-yellow)
 
 Commercial-oriented Property Management platform built as a Modular Monolith following Clean Architecture principles.
 
@@ -126,25 +149,6 @@ Designed to support rental property administration while providing a scalable fo
 - Azure deployment roadmap
 
 **Repository:** https://github.com/quirosmirandavictor/property_management
-
----
-
-### Enterprise Log Analyzer
-
-Cloud-native log processing platform built on Azure for scalable ingestion, normalization, and analysis of application logs.
-
-The solution follows an event-driven architecture using Azure Functions, Queue Storage, Docker, and Infrastructure as Code.
-
-**Highlights**
-
-- Azure Functions
-- Queue Storage
-- Event-driven processing
-- Docker
-- Bicep
-- GitHub Actions
-
-**Repository:** https://github.com/quirosmirandavictor/logs_viewer
 
 ---
 
