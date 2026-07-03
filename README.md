@@ -64,6 +64,7 @@ Currently, I am focused on expanding my expertise in Azure architecture and clou
 - ASP.NET Core
 - FastAPI
 - REST APIs
+- React
 - JWT Authentication
 - Microsoft Entra ID
 
