@@ -183,9 +183,33 @@ Designed to support rental property administration while providing a scalable fo
 
 <div align="center">
 
-## Top Languages
+## GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quirosmirandavictor&layout=compact&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quirosmirandavictor&theme=github_dark)
+
+
+<table>
+  
+<tr>
+<td>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quirosmirandavictor&theme=github_dark)
+
+</td>
+
+<td>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quirosmirandavictor&theme=github_dark)
+
+</td>
+
+<td>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quirosmirandavictor&theme=github_dark&utcOffset=-6)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -193,7 +217,7 @@ Designed to support rental property administration while providing a scalable fo
 
 <div align="center">
 
-## GitHub Insights
+## Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=quirosmirandavictor&theme=github-dark&hide_border=true)
 
