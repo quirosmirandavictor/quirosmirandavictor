@@ -44,10 +44,7 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 12
           plugin_languages_threshold: 0%
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_recent_categories: markup, programming, data
-          plugin_languages_recent_days: 30
-          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
 
           # --- Calendario de contribuciones (heatmap gráfico) ---
           plugin_isocalendar: yes
