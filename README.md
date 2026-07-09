@@ -181,7 +181,7 @@ Designed to support rental property administration while providing a scalable fo
 - OpenID Connect & Modern Authentication
 
 ---
-
+<!-- METRICS:START -->
 <div align="center">
 
 ## GitHub Analytics
@@ -213,7 +213,7 @@ Designed to support rental property administration while providing a scalable fo
 </table>
 
 </div>
-
+<!-- METRICS:END -->
 ---
 
 <div align="center">
