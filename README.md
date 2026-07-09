@@ -184,7 +184,29 @@ Designed to support rental property administration while providing a scalable fo
 <!-- METRICS:START -->
 <div align="center">
 
-![metrics](./metrics.svg)
+## GitHub Analytics
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quirosmirandavictor&theme=github_dark)
+
+<table>
+<tr>
+<td>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quirosmirandavictor&theme=github_dark)
+
+</td>
+<td>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quirosmirandavictor&theme=github_dark)
+
+</td>
+<td>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quirosmirandavictor&theme=github_dark&utcOffset=-6)
+
+</td>
+</tr>
+</table>
 
 </div>
 <!-- METRICS:END -->
