@@ -58,13 +58,14 @@ Currently, I am focused on expanding my expertise in Azure architecture and clou
 ### Frameworks & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,react" />
+  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,flask,react" />
 </p>
 
 - ASP.NET Core
 - FastAPI
-- REST APIs
+- Flask
 - React
+- REST APIs
 - JWT Authentication
 - Microsoft Entra ID
 
