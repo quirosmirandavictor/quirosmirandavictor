@@ -227,10 +227,11 @@ Designed to process free-text food queries in Spanish using automated translatio
 
 ## Goals for 2026
 
-- Earn Microsoft AZ-305 certification
-- Launch a commercial SaaS platform
-- Expand expertise in Azure architecture and distributed systems
-- Build production-ready cloud solutions following Well-Architected principles
+- Achieve Microsoft AZ-104 certification
+- Continue building the knowledge and hands-on experience required for Microsoft AZ-305
+- Publish a production-ready cloud application using .NET, Python, React, and Azure
+- Advance the Property Management Platform project toward a production-ready architecture
+- Strengthen expertise in Azure infrastructure, distributed systems, and cloud-native architecture
 
 ---
 
