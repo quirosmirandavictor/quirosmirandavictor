@@ -154,6 +154,30 @@ Designed to support rental property administration while providing a scalable fo
 
 ---
 
+---
+
+### Nutri Metrics Platform
+
+![Status](https://img.shields.io/badge/status-in%20development-yellow)
+
+Nutritional tracking platform built as a Modular Monolith following Clean Architecture and CQRS principles.
+
+Designed to process free-text food queries in Spanish using automated translation and external nutrition databases, providing a scalable foundation for future cloud deployment on Azure.
+
+**Highlights**
+
+- Modular Monolith Architecture
+- Clean Architecture & CQRS (MediatR)
+- .NET 10 Web API
+- CalorieNinjas & Google Translate Integration
+- User Secrets Security
+- Integration & Unit Testing
+- Azure deployment roadmap
+
+**Repository:** https://github.com/quirosmirandavictor/nutri_metrics
+
+---
+
 ## Current Focus
 
 - Azure Solution Architecture
