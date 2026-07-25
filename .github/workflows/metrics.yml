@@ -34,10 +34,6 @@ jobs:
           plugin_languages_limit: 12
           plugin_languages_threshold: 0%
           plugin_languages_sections: most-used
-          plugin_habits: yes
-          plugin_habits_from: 100
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           plugin_stars: yes
-          debug: yes
