@@ -132,30 +132,6 @@ The solution follows an event-driven architecture using Azure Functions, Queue S
 
 ---
 
-### Property Management Platform
-
-![Status](https://img.shields.io/badge/status-in%20development-yellow)
-
-Commercial-oriented Property Management platform built as a Modular Monolith following Clean Architecture principles.
-
-Designed to support rental property administration while providing a scalable foundation for future cloud deployment on Azure.
-
-**Highlights**
-
-- Modular Monolith Architecture
-- FastAPI backend
-- React frontend
-- JWT Authentication
-- SQL Database
-- CI/CD ready
-- Azure deployment roadmap
-
-**Repository:** https://github.com/quirosmirandavictor/property_management
-
----
-
----
-
 ### Nutri Metrics Platform
 
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
@@ -175,6 +151,28 @@ Designed to process free-text food queries in Spanish using automated translatio
 - Azure deployment roadmap
 
 **Repository:** https://github.com/quirosmirandavictor/nutri_metrics
+
+---
+
+### Property Management Platform
+
+![Status](https://img.shields.io/badge/status-in%20development-yellow)
+
+Commercial-oriented Property Management platform built as a Modular Monolith following Clean Architecture principles.
+
+Designed to support rental property administration while providing a scalable foundation for future cloud deployment on Azure.
+
+**Highlights**
+
+- Modular Monolith Architecture
+- FastAPI backend
+- React frontend
+- JWT Authentication
+- SQL Database
+- CI/CD ready
+- Azure deployment roadmap
+
+**Repository:** https://github.com/quirosmirandavictor/property_management
 
 ---
 
