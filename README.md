@@ -145,7 +145,7 @@ Designed to process free-text food queries in Spanish using automated translatio
 - Modular Monolith Architecture
 - Clean Architecture & CQRS (MediatR)
 - .NET 10 Web API
-- CalorieNinjas & Google Translate Integration
+- CalorieNinjas & LibreTranslate API Integration
 - User Secrets Security
 - Integration & Unit Testing
 - Azure deployment roadmap
