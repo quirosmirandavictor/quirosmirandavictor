@@ -149,6 +149,7 @@ Designed to process free-text food queries in Spanish using automated translatio
 - CalorieNinjas & LibreTranslate API Integration
 - User Secrets Security
 - Integration & Unit Testing
+- OpenTelemertry + Grafana
 - Azure deployment roadmap
 
 **Repository:** https://github.com/quirosmirandavictor/nutri_metrics
