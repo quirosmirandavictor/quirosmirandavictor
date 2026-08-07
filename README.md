@@ -134,7 +134,8 @@ The solution follows an event-driven architecture using Azure Functions, Queue S
 
 ### Nutri Metrics Platform
 
-![Status](https://img.shields.io/badge/status-in%20development-yellow)
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
+[![Release](https://img.shields.io/github/v/tag/quirosmirandavictor/nutri_metrics?label=Release&sort=semver)](https://github.com/quirosmirandavictor/nutri_metrics/releases)
 
 Nutritional tracking platform built as a Modular Monolith following Clean Architecture and CQRS principles.
 
