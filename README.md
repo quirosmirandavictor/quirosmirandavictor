@@ -178,6 +178,33 @@ Designed to support rental property administration while providing a scalable fo
 
 ---
 
+### Earthquake Monitor
+
+![Status](https://img.shields.io/badge/status-in%20development-yellow)
+
+Earthquake monitoring platform built as a Modular Monolith following Clean Architecture principles.
+
+Designed to collect seismic events from USGS, normalize and persist them in Oracle, and provide a foundation for regional dashboards, analytics, maps and alerts.
+
+**Highlights**
+
+- Modular Monolith Architecture
+- Clean Architecture
+- .NET 10 and Azure Functions
+- USGS GeoJSON integration
+- Oracle persistence with idempotent UPSERT
+- Configurable geographic regions
+- Docker and Azurite local environment
+- Oracle Wallet integration
+- React and TypeScript dashboard roadmap
+- CI/CD and Azure deployment roadmap
+
+**Repository:** https://github.com/quirosmirandavictor/earth_quake_monitor
+
+---
+
+
+
 ## Current Focus
 
 - Azure Solution Architecture
