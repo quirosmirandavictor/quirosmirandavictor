@@ -156,31 +156,10 @@ Designed to process free-text food queries in Spanish using automated translatio
 
 ---
 
-### Property Management Platform
-
-![Status](https://img.shields.io/badge/status-in%20development-yellow)
-
-Commercial-oriented Property Management platform built as a Modular Monolith following Clean Architecture principles.
-
-Designed to support rental property administration while providing a scalable foundation for future cloud deployment on Azure.
-
-**Highlights**
-
-- Modular Monolith Architecture
-- FastAPI backend
-- React frontend
-- JWT Authentication
-- SQL Database
-- CI/CD ready
-- Azure deployment roadmap
-
-**Repository:** https://github.com/quirosmirandavictor/property_management
-
----
-
 ### Earthquake Monitor
 
-![Status](https://img.shields.io/badge/status-in%20development-yellow)
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
+[![Release](https://img.shields.io/github/v/tag/quirosmirandavictor/earth_quake_monitor?label=Release&sort=semver)](https://github.com/quirosmirandavictor/earth_quake_monitor/releases)
 
 Earthquake monitoring platform built as a Modular Monolith following Clean Architecture principles.
 
@@ -203,7 +182,27 @@ Designed to collect seismic events from USGS, normalize and persist them in Orac
 
 ---
 
+### Property Management Platform
 
+![Status](https://img.shields.io/badge/status-in%20development-yellow)
+
+Commercial-oriented Property Management platform built as a Modular Monolith following Clean Architecture principles.
+
+Designed to support rental property administration while providing a scalable foundation for future cloud deployment on Azure.
+
+**Highlights**
+
+- Modular Monolith Architecture
+- FastAPI backend
+- React frontend
+- JWT Authentication
+- SQL Database
+- CI/CD ready
+- Azure deployment roadmap
+
+**Repository:** https://github.com/quirosmirandavictor/property_management
+
+---
 
 ## Current Focus
 
