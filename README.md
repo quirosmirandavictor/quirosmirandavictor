@@ -240,18 +240,6 @@ Designed to support rental property administration while providing a scalable fo
 </div>
 <!-- METRICS:END -->
 
----
-
-<div align="center">
-
-## Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=quirosmirandavictor&theme=github-dark&hide_border=true)
-
-</div>
-
----
-
 ## Goals for 2026
 
 - Achieve Microsoft AZ-104 certification
