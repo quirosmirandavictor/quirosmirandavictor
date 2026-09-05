@@ -1,32 +1,76 @@
 <p align="center">
-  <img src="rbnr.png" alt="Banner" />
+  <img src="rbnr.png" alt="Victor Quirós - Backend Engineering, Software Architecture and Azure" />
 </p>
 
 # Hi, I'm Victor Quirós 👋
 
-### Senior Software Engineer | Azure Cloud & Solution Architecture
+### Senior Backend Engineer | .NET & Python | Backend Performance | Software Architecture | Azure
 
-Building enterprise software, cloud solutions, and data-driven applications with .NET, Python, Azure, and SQL Server.
+I build and improve enterprise backend systems with a focus on maintainability,
+performance, architecture, observability, and incremental modernization.
+
+[Portfolio](https://vqm-engineering.vercel.app/) ·
+[Consulting](https://vqm-engineering.vercel.app/docs/consulting) ·
+[LinkedIn](https://www.linkedin.com/in/victor-quiros-miranda-az)
 
 ---
 
 ## About Me
 
-I am a Senior Software Engineer with over 10 years of experience designing enterprise applications, backend systems, and relational databases.
+I am a Senior Software Engineer with over 10 years of experience designing,
+modernizing, and supporting enterprise applications, backend systems, and
+relational databases.
 
-Throughout my career, I have worked on software architecture, API development, database optimization, and cloud solutions for business-critical systems.
+Throughout my career, I have worked on software architecture, API development,
+database optimization, system integration, backend performance, legacy
+modernization, and cloud solutions for business-critical systems.
 
-Today my primary focus is designing cloud-native applications on Microsoft Azure using Clean Architecture, Infrastructure as Code, CI/CD, and modern observability practices.
+My current technical focus includes .NET, Python, Microsoft Azure, distributed
+systems, Clean Architecture, Infrastructure as Code, CI/CD, and modern
+observability practices.
 
-My professional background includes:
+A significant part of my experience has involved improving existing systems:
+understanding technical constraints, identifying bottlenecks, addressing
+performance issues, and defining practical improvements without defaulting
+to unnecessary rewrites.
 
-* Enterprise software development
-* Relational database design and optimization
-* Backend systems and APIs
-* Cloud technologies and Azure services
-* System analysis and technical architecture
+### Professional Background
 
-Currently, I am focused on expanding my expertise in Azure architecture and cloud-native solutions with the goal of becoming a Solution Architect.
+- Enterprise backend development
+- Software architecture and technical design
+- Backend performance analysis and optimization
+- Relational database design and optimization
+- REST APIs and system integration
+- Legacy system modernization
+- Distributed systems and asynchronous processing
+- Cloud technologies and Microsoft Azure
+- Technical mentoring and architecture guidance
+
+---
+
+## Consulting
+
+I also provide focused architecture and performance assessments for existing
+.NET and Python backend systems.
+
+Current assessment areas include:
+
+- **Architecture & Performance Triage**  
+  Identify where a technical or performance problem should be investigated first.
+
+- **Backend Architecture Health Check**  
+  Review boundaries, dependencies, data access, maintainability, observability,
+  and modernization opportunities.
+
+- **Performance Diagnostic**  
+  Investigate a clearly defined performance problem such as slow batch jobs,
+  timeouts, inefficient ORM usage, expensive SQL, or excessive database
+  round-trips.
+
+My approach is evidence-driven and incremental: understand the existing system,
+identify the real constraints, and then define practical next steps.
+
+➡️ [Learn more about my consulting approach](https://vqm-engineering.vercel.app/docs/consulting)
 
 ---
 
@@ -53,8 +97,6 @@ Currently, I am focused on expanding my expertise in Azure architecture and clou
 - JavaScript
 - SQL
 
----
-
 ### Frameworks & Backend
 
 <p>
@@ -69,8 +111,6 @@ Currently, I am focused on expanding my expertise in Azure architecture and clou
 - JWT Authentication
 - Microsoft Entra ID
 
----
-
 ### Cloud, DevOps & Infrastructure
 
 <p>
@@ -82,13 +122,11 @@ Currently, I am focused on expanding my expertise in Azure architecture and clou
 - Azure App Service
 - Azure Storage
 - Azure Queue Storage
-- GitHub Actions
 - Docker
-- Bicep (Infrastructure as Code)
-  
----
+- GitHub Actions
+- Bicep / Infrastructure as Code
 
-### Databases
+### Databases & Data Access
 
 <p>
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
@@ -99,36 +137,46 @@ Currently, I am focused on expanding my expertise in Azure architecture and clou
 
 - Microsoft SQL Server
 - Oracle Database
-- MySQL
-- MariaDB
-- Database Design
-- Query Optimization
-- Performance Tuning
-- Stored Procedures
-- Data Modeling
+- MySQL / MariaDB
+- Entity Framework Core
+- ADO.NET
+- SQLAlchemy
+- Relational database design
+- Query optimization
+- Performance tuning
+- Data modeling
 
 ---
 
 ## Featured Projects
 
 ### Enterprise Log Analyzer
+
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
 [![Release](https://img.shields.io/github/v/tag/quirosmirandavictor/logs_viewer?label=Release&sort=semver)](https://github.com/quirosmirandavictor/logs_viewer/releases)
 
-Cloud-native log processing platform built on Azure for scalable ingestion, normalization, and analysis of application logs.
+Cloud-native log processing solution designed to decouple log producers from
+storage and downstream processing.
 
-The solution follows an event-driven architecture using Azure Functions, Queue Storage, Docker, and Infrastructure as Code.
+The architecture uses asynchronous messaging to absorb workload variations
+and allow components to evolve independently.
 
-**Highlights**
+**Architecture focus**
 
-- Azure Functions
-- Queue Storage
 - Event-driven processing
+- Azure Functions
+- Azure Queue Storage
+- Structured log ingestion
 - Docker
 - Bicep
 - GitHub Actions
 
-**Repository:** https://github.com/quirosmirandavictor/logs_viewer
+**Key decision:** logs are published asynchronously instead of being processed
+directly by the producer, reducing coupling between log generation and
+persistence.
+
+**Repository:**  
+https://github.com/quirosmirandavictor/logs_viewer
 
 ---
 
@@ -137,48 +185,61 @@ The solution follows an event-driven architecture using Azure Functions, Queue S
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
 [![Release](https://img.shields.io/github/v/tag/quirosmirandavictor/nutri_metrics?label=Release&sort=semver)](https://github.com/quirosmirandavictor/nutri_metrics/releases)
 
-Nutritional tracking platform built as a Modular Monolith following Clean Architecture and CQRS principles.
+Nutritional tracking backend designed as a Modular Monolith using Clean
+Architecture and CQRS.
 
-Designed to process free-text food queries in Spanish using automated translation and external nutrition databases, providing a scalable foundation for future cloud deployment on Azure.
+The platform processes free-text food queries, integrates external nutritional
+services, and keeps application concerns separated through explicit
+architectural boundaries.
 
-**Highlights**
+**Architecture focus**
 
-- Modular Monolith Architecture
-- Clean Architecture & CQRS (MediatR)
+- Modular Monolith
+- Clean Architecture
+- CQRS with MediatR
 - .NET 10 Web API
-- CalorieNinjas & LibreTranslate API Integration
-- User Secrets Security
-- Integration & Unit Testing
-- OpenTelemetry + Grafana
-- Azure deployment roadmap
+- External API integrations
+- Integration and unit testing
+- OpenTelemetry
+- Grafana observability stack
 
-**Repository:** https://github.com/quirosmirandavictor/nutri_metrics
+**Key decision:** a Modular Monolith was selected instead of introducing
+distributed services prematurely, keeping deployment simple while preserving
+clear internal boundaries.
+
+**Repository:**  
+https://github.com/quirosmirandavictor/nutri_metrics
 
 ---
 
 ### Earthquake Monitor
 
-![Status](https://img.shields.io/badge/status-stable-brightgreen)
+![Status](https://img.shields.io/badge/status-active-blue)
 [![Release](https://img.shields.io/github/v/tag/quirosmirandavictor/earth_quake_monitor?label=Release&sort=semver)](https://github.com/quirosmirandavictor/earth_quake_monitor/releases)
 
-Earthquake monitoring platform built as a Modular Monolith following Clean Architecture principles.
+Earthquake monitoring platform designed to ingest, normalize, persist, and
+eventually visualize seismic events from public data sources.
 
-Designed to collect seismic events from USGS, normalize and persist them in Oracle, and provide a foundation for regional dashboards, analytics, maps and alerts.
+The backend follows a Modular Monolith and Clean Architecture approach with
+explicit application boundaries.
 
-**Highlights**
+**Architecture focus**
 
-- Modular Monolith Architecture
+- Modular Monolith
 - Clean Architecture
-- .NET 10 and Azure Functions
+- .NET 10
+- Azure Functions
 - USGS GeoJSON integration
-- Oracle persistence with idempotent UPSERT
-- Configurable geographic regions
-- Docker and Azurite local environment
+- Oracle persistence
+- Idempotent UPSERT processing
+- Docker and Azurite
 - Oracle Wallet integration
-- React and TypeScript dashboard roadmap
-- CI/CD and Azure deployment roadmap
 
-**Repository:** https://github.com/quirosmirandavictor/earth_quake_monitor
+**Key decision:** ingestion is designed to be idempotent so repeated events
+from external feeds can be processed safely without creating duplicates.
+
+**Repository:**  
+https://github.com/quirosmirandavictor/earth_quake_monitor
 
 ---
 
@@ -186,52 +247,55 @@ Designed to collect seismic events from USGS, normalize and persist them in Orac
 
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
 
-Commercial-oriented Property Management platform built as a Modular Monolith following Clean Architecture principles.
+Property management platform designed to support rental administration,
+contracts, financial operations, and related business workflows.
 
-Designed to support rental property administration while providing a scalable foundation for future cloud deployment on Azure.
+The backend is being developed as a Modular Monolith with Clean Architecture,
+allowing business capabilities to remain separated without introducing
+unnecessary distributed-system complexity.
 
-**Highlights**
+**Architecture focus**
 
-- Modular Monolith Architecture
-- FastAPI backend
-- React frontend
+- Python / FastAPI
+- Modular Monolith
+- Clean Architecture
+- React
 - JWT Authentication
-- SQL Database
-- CI/CD ready
-- Azure deployment roadmap
+- Relational database
+- Database migrations
+- Azure-oriented cloud architecture
 
-**Repository:** https://github.com/quirosmirandavictor/property_management
+**Key decision:** documents such as contracts, invoices, and payment evidence
+are designed to be stored outside the relational database, keeping only their
+references and metadata in the corresponding domain entities.
+
+**Repository:**  
+https://github.com/quirosmirandavictor/property_management
 
 ---
 
-## Current Focus
+## Current Technical Focus
+
+I am currently deepening my hands-on experience in:
 
 - Azure Solution Architecture
-- Cloud-Native Applications
-- Clean Architecture
-- Modular Monolith Architecture
-- Event-Driven Architecture
-- Distributed Systems
-- Infrastructure as Code (Bicep)
-- CI/CD Automation
-- Exploring Microservices and Service-Oriented Architectures
-- SaaS Product Development
-
----
-
-## Current Learning Journey
-
-- Microsoft Azure Solution Architecture (AZ-305)
-- Azure Well-Architected Framework
+- Distributed systems and integration patterns
+- Event-driven architecture
 - Infrastructure as Code with Bicep
-- Event-Driven Architecture
-- Modular Monolith Architecture
-- Cloud Design Patterns
-- Distributed Systems
-- OpenTelemetry & Observability
-- OpenID Connect & Modern Authentication
+- Observability with OpenTelemetry
+- Backend performance and scalability
+- Cloud-native backend systems
+- Legacy modernization
+- SaaS product architecture
+
+### Certification Path
+
+- Microsoft Azure Administrator (AZ-104)
+- Microsoft Azure Solutions Architect (AZ-305)
+- Azure Well-Architected Framework
 
 ---
+
 <!-- METRICS:START -->
 <div align="center">
 
@@ -239,27 +303,6 @@ Designed to support rental property administration while providing a scalable fo
 
 </div>
 <!-- METRICS:END -->
-
-## Goals for 2026
-
-- Achieve Microsoft AZ-104 certification
-- Continue building the knowledge and hands-on experience required for Microsoft AZ-305
-- Publish a production-ready cloud application using .NET, Python, React, and Azure
-- Advance the Property Management Platform project toward a production-ready architecture
-- Strengthen expertise in Azure infrastructure, distributed systems, and cloud-native architecture
-
----
-
-## Areas of Interest
-
-- Cloud Architecture
-- Azure
-- Clean Architecture
-- Distributed Systems
-- SaaS Platforms
-- DevOps
-- Observability
-- Backend Engineering
 
 ---
 
@@ -271,6 +314,12 @@ Designed to support rental property administration while providing a scalable fo
   </a>
 </p>
 
+🌐 **Portfolio:**  
+https://vqm-engineering.vercel.app/
+
+🛠️ **Consulting:**  
+https://vqm-engineering.vercel.app/docs/consulting
+
 ---
 
-> “Designing reliable software today while building scalable cloud solutions for tomorrow.”
+> “Understand the system first. Improve what matters most.”
