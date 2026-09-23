@@ -77,6 +77,7 @@ identify the real constraints, and then define practical next steps.
 ## Certifications
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Microsoft-AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft-DP--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
@@ -290,7 +291,6 @@ I am currently deepening my hands-on experience in:
 
 ### Certification Path
 
-- Microsoft Azure Administrator (AZ-104)
 - Microsoft Azure Solutions Architect (AZ-305)
 - Azure Well-Architected Framework
 
